@@ -32,7 +32,7 @@
     a foaf:Person ;
     foaf:name "Robert Ilievski" ;
     foaf:mbox_sha1sum "033fee7bbc8b85c298c46943829a4a1d1ebf93c6" ;
-    rdfs:seeAlso <https://raw.githubusercontent.com/robert-ilievski/wbs-foaf/master/foaf.ttl?fbclid=IwAR3CTXtzsGToTbzEk4wpdrwDy7dyHr0gquavwJNalZJdEo-hQowGLyQQHVM>
+    rdfs:seeAlso <https://raw.githubusercontent.com/robert-ilievski/wbs-foaf/master/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Milos Jovanovikj" ;
