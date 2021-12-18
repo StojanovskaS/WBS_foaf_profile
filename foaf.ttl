@@ -23,7 +23,7 @@
   foaf:knows [
     a foaf:Person ;
     foaf:name "Filip Stavrov" ;
-    foaf:mbox_sha1sum "2b801a9671c6d66f3c8aa242a7db75d2d71e9c4c"
+    foaf:mbox_sha1sum "2b801a9671c6d66f3c8aa242a7db75d2d71e9c4c" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/stavrovfilip/FOAF/main/foaf.ttl>
   ], [
     a foaf:Person ;
